@@ -1,5 +1,7 @@
 # RedQueen Override
 
+Visit the webbapp on http://192.168.21.248/~tecna/
+
 A small PHP and MariaDB application where authorized users log in with a personal override code and can shut down or restart a simulated AI system. The status is stored in the database and persists across sessions.
 
 ### Features
